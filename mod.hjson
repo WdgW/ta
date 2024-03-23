@@ -1,0 +1,9 @@
+displayName: "mod"
+name: "longjing-mod-dream"
+author: "dg"
+main: "longjing.Main"
+description: "一个模组"
+version: 0.1
+minGameVersion: 136
+java: true
+
